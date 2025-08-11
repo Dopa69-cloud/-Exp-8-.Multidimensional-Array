@@ -8,7 +8,7 @@ Accepts a matrix of size r × c from the user.
 5.Addition of only diagoal element.
 
 Theory:
-Two for is required to Display the matrix, and asking the 
+Two  for loop  is required to Display the matrix, and asking the 
 user to provide the value of rows and columns respectively,
 i is for rows and j is for columns.
 For transpose of matrix , new matrix will be like rows will become 
