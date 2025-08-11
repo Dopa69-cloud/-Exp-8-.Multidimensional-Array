@@ -24,3 +24,15 @@ Conclusion;
 Initialisation of multidimensional array ,and how to display it,
 and performed various operations on matrix, Learned about the 
 concept of nested for loop, index position of array value.
+
+
+| **Variable**  | **Description**                                           | **Operation**            |
+| ------------- | --------------------------------------------------------- | ------------------------ |
+| `ar[i][j]`     | Element at row `i` and column `j` of matrix A             | Used in all operations   |
+| `br[i][j]`     | Element at row `i` and column `j` of matrix B             | Addition, Multiplication |
+| `C[i][j]`     | Resultant element after performing the operation          | Addition, Multiplication |
+| `tr[j][i]`    | Element at row `j`, column `i` of transposed matrix A     | Transpose                |
+| `sum` | Variable storing the sum of diagonal elements of a matrix | Diagonal sum             |
+| `i`           | Row index in loops                                        | All operations           |
+| `j`           | Column index in loops                                     | All operations           |
+| `k`           | Intermediate index used for multiplication summation      | Multiplication           |
